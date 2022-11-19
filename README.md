@@ -8,5 +8,5 @@
 
 
 ### Sumber:
-- https://www.kaggle.com/code/danielpepuho/text-classification-svm-explained/edit
-- https://www.kaggle.com/code/danielpepuho/ann-based-classification/edit
+- https://www.kaggle.com/code/mehmetlaudatekman/text-classification-svm-explained
+- https://www.kaggle.com/code/tomkurian777/ann-based-classification
