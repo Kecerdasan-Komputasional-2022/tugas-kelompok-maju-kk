@@ -3,8 +3,9 @@
 | Nama                      | NRP      |
 |---------------------------|----------|
 |Afira Rolobesyy            |5025201006|
+|ANDI MUHAMMAD RAFLI	      |5025201089|
 |Gloriyano C. Daniel Pepuho |5025201121|
-|ANDI MUHAMMAD RAFLI	    |5025201089|
+
 
 
 ### Sumber:
